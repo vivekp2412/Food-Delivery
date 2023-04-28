@@ -21,6 +21,7 @@ Website: [https://foodtime-app.herokuapp.com](https://foodtime-app.herokuapp.com
 - Materializecss
 - Json Web Token
 
+
 ## Installation
 
 - Clone the repository
